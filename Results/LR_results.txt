@@ -1,3 +1,5 @@
+Best parameters: {'classifier__C': 10, 'dim_red': 'passthrough', 'poly__degree': 2, 'scaler': MinMaxScaler(), 'smote': 'passthrough'}
+
 Validation results (LR):
                 precision    recall  f1-score   support
 
