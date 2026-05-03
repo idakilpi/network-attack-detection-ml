@@ -1,0 +1,30 @@
+Validation results (LR):
+                precision    recall  f1-score   support
+
+          Bots       0.00      0.00      0.00        17
+   Brute Force       0.00      0.00      0.00        76
+          DDoS       0.90      0.58      0.70      1023
+           DoS       0.93      0.81      0.86      1534
+Normal Traffic       0.94      0.99      0.97     16616
+ Port Scanning       0.85      0.51      0.64       715
+   Web Attacks       0.00      0.00      0.00        19
+
+      accuracy                           0.93     20000
+     macro avg       0.52      0.41      0.45     20000
+  weighted avg       0.93      0.93      0.93     20000
+
+
+Final results (LR):
+                precision    recall  f1-score   support
+
+          Bots       0.00      0.00      0.00        18
+   Brute Force       0.00      0.00      0.00        75
+          DDoS       0.92      0.59      0.72      1023
+           DoS       0.95      0.79      0.86      1535
+Normal Traffic       0.94      0.99      0.96     16616
+ Port Scanning       0.83      0.47      0.60       715
+   Web Attacks       0.00      0.00      0.00        18
+
+      accuracy                           0.93     20000
+     macro avg       0.52      0.41      0.45     20000
+  weighted avg       0.93      0.93      0.93     20000
